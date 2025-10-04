@@ -22,7 +22,6 @@ const Locations = () => {
             }
         }) ()
     }, [])
-
     const setListeners = () => {
         const polygons = document.querySelectorAll('polygon')
 
